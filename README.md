@@ -9,7 +9,7 @@ Sunjin - Presentation + Slides \
 Marenda - Notebook Coding
 
 # Problem Definition
-- Can we create a model that can predict whether a person will be promoted based on their characteristics?
+- How do different variables such as previous_year_rating, awards_won?, region and avg_training_score affect whether an employee is promoted in each of the different departments: Sales & Marketing, Operations and Technology?
 - Which model would be the best for such prediction depending on time complexity, accuracy, and ease of modelling?
 
 # Encoding Technique
